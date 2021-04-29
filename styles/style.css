@@ -1,0 +1,42 @@
+.bg-color-1 {
+  background-color: #3c3a52;
+}
+
+.bg-color-2 {
+  background-color: #4b6cb7;
+}
+
+.bg-color-3 {
+  background-color: #342C44;
+}
+
+.btn-large, .btn-small, .btn {
+  border-radius: 25px;
+}
+
+.btn-large:hover, .btn-small:hover, .btn:hover {
+  background: transparent;
+  border: 2px solid #4b6cb7;
+}
+
+* {
+  margin: none;
+}
+
+body {
+  font-family: 'Forum', cursive;
+  color: white;
+}
+
+#intro div.valign-wrapper {
+  height: 78vh;
+}
+
+#intro .btn-large {
+  border-radius: 25px;
+}
+
+#video-box {
+  height: 60vh;
+}
+/*# sourceMappingURL=style.css.map */
